@@ -30,12 +30,11 @@ This is a simple **Digital Clock** web application that displays the current tim
 ## 📂 File Structure
 
 ```
-📂 digital-clock
-├── 📂 assets
-│   ├── style.css (Styles)
-│   ├── script.js (Clock functionality)
-├── index.html (Main HTML file)
-└── README.md (Project documentation)
+📂 assets
+├── style.css (Styles)
+├── script.js (Clock functionality)
+index.html (Main HTML file)
+README.md (Project documentation)
 ```
 
 ## 📝 License
@@ -48,9 +47,11 @@ If you want to improve this project, feel free to **fork** the repository and su
 
 ## 👨‍💻 Author
 
-GitHub: 
+**Mohamed Fayas** 
 
-LinkedIn: 
+- [Github](https://github.com/Mohamedafayas)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-fayas-m-6993a0274/)  
+ 
 
 ## 💡 Support
 
